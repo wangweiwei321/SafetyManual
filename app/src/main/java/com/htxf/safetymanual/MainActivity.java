@@ -18,10 +18,13 @@ public class MainActivity extends AppCompatActivity {
 
     private DrawerLayout mDrawerLayout;
     private NavigationView mNavigationView;
-
     private FragmentManager mFragmentManager;
     private FragmentTransaction mFragmentTransaction;
 
+    /**
+     * 测试1 16:24
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
