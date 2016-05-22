@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/purpose"
+        android:title="目的"/>
+    <item
+        android:id="@+id/laws"
+        android:title="依据的法律法规和制度"/>
+    <item
+        android:id="@+id/general__safety_rules"
+        android:title="实验室一般安全守则"/>
+    <item
+        android:id="@+id/firefighting"
+        android:title="消防安全"/>
+    <item
+        android:id="@+id/electricity"
+        android:title="用电安全"/>
+    <item
+        android:id="@+id/chemicals"
+        android:title="化学品安全"/>
+    <item
+        android:id="@+id/biological"
+        android:title="生物实验室安全"/>
+    <item
+        android:id="@+id/radiation"
+        android:title="辐射与激光安全"/>
+    <item
+        android:id="@+id/equipment"
+        android:title="机械设备安全"/>
+
+
+</menu>
